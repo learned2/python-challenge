@@ -4,7 +4,7 @@ CU Data Analysis Module 3 Challenge Python
 Author: Stan Usovicz 
 Date: 12/12/2024 
 
-Decription: In this python challenge there are folders for two separate challenges: 
+Description: In this python challenge there are folders for two separate challenges: 
 
 1 - PyBank
 
