@@ -5,7 +5,7 @@ PyPoll Main Script
 Author: Stan Usovicz
 Created 12/11/2024
 
-Description: returns total votes, vote counts nd % for each candidate, and the winner and outputs in election_analysis.txt
+Description: returns total votes, vote counts and % for each candidate, and the winner and outputs in election_analysis.txt
 
 """
 
