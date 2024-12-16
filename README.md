@@ -28,3 +28,9 @@ Candidate Vote Count: Tracks the number of votes for each candidate.
 Vote Percentage: Computes the percentage of total votes received by each candidate.
 Winner Identification: Identifies and displays the winning candidate based on the highest number of votes.
 Detailed Results: Outputs detailed results including vote counts, percentages, and the winner.
+
+***UPDATES*** - 12/16/24
+
+Updated formatting in budget_analysis.txt to include "$" after amounts in Greatest Increase and Greatest Decrease
+
+Updated each candidate's vote % and count to the terminal when run 

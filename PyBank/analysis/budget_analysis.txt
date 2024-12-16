@@ -3,5 +3,5 @@ Financial Analysis
 Total Months: 86
 Total Net Profit/Loss: $22564198
 Average change: $-8311.11
-Greatest increase: {'date': 'Aug-16', 'amount': 1862002}
-Greatest decrease: {'date': 'Feb-14', 'amount': -1825558}
+Greatest Increase: Aug-16 ($1862002)
+Greatest Decrease: Feb-14 ($-1825558)

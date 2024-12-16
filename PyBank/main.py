@@ -97,8 +97,9 @@ output = (
     f"Total Months: {total_months}\n"
     f"Total Net Profit/Loss: ${total_net}\n"
     f"Average change: ${average_change}\n"
-    f"Greatest increase: {greatest_increase}\n"
-    f"Greatest decrease: {greatest_decrease}\n"
+    f"Greatest Increase: {greatest_increase['date']} (${greatest_increase['amount']})\n"
+    f"Greatest Decrease: {greatest_decrease['date']} (${greatest_decrease['amount']})\n"
+
 )
 
 # Write the results to a text file

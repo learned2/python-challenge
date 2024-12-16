@@ -56,7 +56,8 @@ with open(file_to_load) as election_data:
         candidates_vote[candidate_name] += 1
 
     # Print the total vote count (to terminal)
-    print(f"Total Votes: {total_votes}")
+    print(f"--------------------------\n"
+          f"Total Votes: {total_votes}\n")
 
 # Generating output 
 output = (
@@ -70,6 +71,9 @@ output = (
 for candidate, votes in candidates_vote.items():
     vote_percentage = (votes / total_votes) * 100  
     output += (f"{candidate}: {vote_percentage:.2f}% ({votes})\n")
+
+    #print each candidate vote count to terminal
+    print(f"{candidate}: {vote_percentage:.2f}% ({votes})\n")
 
     # Determine winning candidate
     if votes > win_vote_count:
